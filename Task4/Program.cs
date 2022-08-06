@@ -10,7 +10,7 @@ double Num2 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Введите 3-е число");
 double Num3 = Convert.ToDouble(Console.ReadLine());
 
-// Вводим понятия максимального числа
+// Вводим понятие максимального числа
 double Max = Num1;
 
 if (Num2 > Max)
